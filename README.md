@@ -1,15 +1,15 @@
 
-# Urban Cut Barber Studio 💈
+# Urban Cut Barber Studio 
 
 Sitio web responsive desarrollado con React, JavaScript y CSS para una barbería ficticia.
 
 Este proyecto forma parte de mi portafolio personal como estudiante de 4.º de Ingeniería Informática. Su objetivo es demostrar mis habilidades en desarrollo frontend, diseño responsive y creación de interfaces interactivas.
 
-## 🌐 Demo en vivo
+##  Demo en vivo
 
 **[Ver página web](https://urban-cut-barber.vercel.app/)**
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Diseño moderno con estética negra y dorada.
 - Navegación entre secciones de la página.
@@ -22,7 +22,7 @@ Este proyecto forma parte de mi portafolio personal como estudiante de 4.º de I
 
 **Nota:** El formulario es demostrativo. Valida los campos en el navegador, pero no envía información ni gestiona reservas reales.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - React
 - JavaScript
@@ -32,7 +32,7 @@ Este proyecto forma parte de mi portafolio personal como estudiante de 4.º de I
 - Git y GitHub
 - Vercel
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 urban-cut-barber/
@@ -49,7 +49,7 @@ urban-cut-barber/
 └── vite.config.js
 ```
 
-## 💻 Instalación y ejecución
+##  Instalación y ejecución
 
 Para ejecutar el proyecto en local:
 
@@ -79,7 +79,7 @@ npm run dev
 
 Abre la dirección local que aparezca en la terminal.
 
-## ✅ Comprobaciones técnicas
+##  Comprobaciones técnicas
 
 El proyecto incluye scripts para ejecutar ESLint y generar la versión de producción.
 
@@ -88,7 +88,7 @@ npm run lint
 npm run build
 ```
 
-## 📌 Posibles mejoras
+##  Posibles mejoras
 
 - Incorporar un sistema de reservas con disponibilidad.
 - Conectar el formulario con un servicio de envío.
@@ -96,11 +96,11 @@ npm run build
 - Mejorar la accesibilidad y optimización de imágenes.
 - Implementar un panel de administración.
 
-## 👨‍💻 Autor
+##  Autor
 
 **Eduardo Campos**
 
-Estudiante de Ingeniería Informática en la Universidad Católica de Murcia (UCAM).
+Estudiante de Ingeniería Informática.
 
 GitHub: [Edycampos13](https://github.com/Edycampos13)
 
